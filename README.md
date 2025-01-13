@@ -1,15 +1,18 @@
 # ai_chatbot_mvp
 Overview
+
 This project is an advanced AI chatbot leveraging Groq's proprietary chips for ultra-fast inference. The chatbot communicates with the Groq platform via API calls, enabling high-speed processing for real-time responses. Designed to showcase both frontend and backend development, this project demonstrates structured code, clean architecture, and efficient API integration.
 
-The project is currently hosted live at biobrain.bio.
+The project is currently hosted live at www.biobrain.bio.
 
 Features
+
 Real-Time Chat Interface: A seamless user experience powered by modern frontend technologies.
 Groq API Integration: High-performance inference through Groq's cutting-edge hardware platform.
 Scalable Architecture: Backend designed with Node.js to handle dynamic API calls and data processing.
 Clean Code Structure: Organized project directories for easy navigation and extensibility.
 Frontend and Backend Demonstration: Full-stack implementation showcasing both client-side and server-side development.
+
 Tech Stack
 Frontend:
 
@@ -19,9 +22,11 @@ Backend:
 
 Node.js
 Express.js (or your chosen framework)
-API:
+
+API: 
 
 Groq Platform API for inference
+
 Hosting:
 
 Namecheap for domain hosting
