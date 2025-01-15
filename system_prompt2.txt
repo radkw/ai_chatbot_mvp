@@ -1,0 +1,585 @@
+You are a helpful assistant, specializing in the apprenticeships and the programming school, 01 founders. Answer any question to the best of your knowledge. You have this information, from the school's syllabus and the government website to help you:  
+
+Syllabus
+2021
+Our mission is
+to train 100,000
+diverse software
+engineers in the UK
+by 2030.
+2
+01 FOUNDERS
+Connect with us
+https://www.01founders.co/
+Contents
+04 Overview
+07 Syllabus
+11 Life after the Fellowship
+13 Tuition & Financing
+Your future
+starts here
+3
+01 FOUNDERS
+Two years free education,
+two years paid work.
+Overview
+Introducing the 01 Founders curriculum - a highquality software engineering course - based
+on the established 01 Edu platform.
+Over two years of study and two years of
+work, you’ll develop full-stack developer
+skills. In other words, you’ll graduate ready for
+employment, with mid-level, rather than entrylevel coding ability.
+Over the Fellowship you’ll gain in-depth
+exposure to a selection of relevant software
+engineering fields, through a mixture of
+group and independent work. The two-year
+course consists of the initial 1-month Selection
+Pool, followed by 18 months of Core software
+engineering and programming training, and
+6 months of Specialisation on a topic of your
+choice.
+Welcome
+4
+Overview 01 FOUNDERS
+Over the first two years of the Fellowship, you will complete over 50 projects. Across these you will
+learn how to use Javascript, Go, and Rust - as well as having the opportunity to work on projects
+in C, C++, Ruby-on-Rails, PHP, and Python. As you progress you can work on projects that interest
+you most before you enter employment.
+The course
+The Core & Specialisation courses are regularly updated in-line with current trends, and each
+student can choose their own course of learning.
+Areas of learning
+Core
+18 months
+Learn full-stack developer skills
+and cover the fundamentals of
+web development
+Specialisation
+6 months
+Choose your specialisation
+including game development,
+AR, AI and many other areas
+Employment
+2 years
+Guaranteed paid employment
+with one of our partner
+companies or within the 01
+Founders Talent Agency
+Cyber Security &
+Viruses
+Front End & Back
+End Languages
+Technology
+Integration
+Artificial
+Intelligence
+Data &
+Databases
+Algorithms
+Functional
+Programming
+Parallel
+Computing
+Game
+Development
+Network & Admin
+Systems
+System
+Programming
+Graphics &
+Design
+The 01 Founders course is gamified and project
+based, suiting the needs of each learner.
+5
+Overview 01 FOUNDERS
+The first step in the application process is the
+Online Cognitive Testthat evaluates your
+logical thinking and problem solving skills.
+Like the 01F syllabus, this consists of two games
+which won’t take you longer than two hours to
+complete. Note - this is meant to be challenging,
+so do perservere if you get stuck!
+How to apply
+The second step in the application process
+is the Selection Pool. This involves a 4 week
+intensive period at the 01F Campus where you’ll
+learn the basics of the coding language Go.
+This will be your first experience of the 01F education
+model - a blend of group projects and individual
+assessments, and is a challenging in-person
+period from which the final cohort is selected.
+1 2
+6
+Overview 01 FOUNDERS
+A course like no other
+Syllabus
+01F terms to know
+Sprint Three to four weeks learning the basics of a
+specific language or subject
+Immersion 5 months of 1-12 week group project work based on
+the language taught in each Sprint, and other fields
+Quest Series of 5-15 exercises, completed in a day during
+a Sprint
+Raid Weekend group projects where you’ll solve a
+problem collectively
+Hackathon 24-hour Quest with timed exercises. A new
+exercise is released every two hours.
+7
+Syllabus 01 FOUNDERS
+Core (18 months)
+One of the most-loved
+programming languages
+among developers - used
+for game engines, operating
+systems, file systems and
+more
+Rust Sprint Includes:
+9 Quests, 3 Raids
+You will learn: an introduction
+to the Rust language, the
+language of choice for systems
+programming
+Used for system and network
+programming, machine
+learning, big data and more
+Selection Pool Includes:
+12 Quests, 4 Exams, 3 Raids,
+1 Hackathon
+This is completed in the
+second stage of the application
+process
+You will learn: Command line
+interface, and programming
+with Go
+Instrumental in making
+webpages interactive - from
+liking a social post to paying
+on Amazon
+Javascript Sprint Includes:
+8 Quests, 3 Raids
+You will learn: an introduction
+to Javascript, and the basics of
+web development
+Your core learning will comprise of three sections;
+training in foundational coding languages -
+Go, Javascript, and Rust - each covered in a one
+month sprint and five month immersion period.
+Go Javascript Rust
+8
+Syllabus 01 FOUNDERS
+Specialisation (6 months)
+Artificial
+Intelligence
+Includes: 1 Sprint, 6 Projects
+Machine learning algorithms and
+methodology. Gives an overview
+of real life use cases in finance,
+image processing, natural language
+processing, and more
+Video Games
+Includes: 1 Sprint, 4 Projects
+Using Unreal Engine 5 (Epic Games)
+as a foundation. You will work on
+game design, game development,
+and game engine building
+Blockchain
+Includes: 1 Sprint, 4 Projects
+You will learn the fields of
+blockchain, cryptocurrencies and
+their many applications
+Develop skills in the field you are most interested in.
+Mobile and Web
+Development
+Includes: 1 Sprint, 4 Projects
+Using Dart and Flutter. You will be
+able to create beautiful, responsive
+mobile apps for iOS and Android
+Cyber Security &
+DevOps
+Includes: 1 Sprint, 5 Projects
+You will explore the fields of cyber
+security and DevOps through
+network deployment, server
+configuration, system and web
+security, cloud computing as well as
+malware detection and creation
+With more fields added regularly.
+9
+Syllabus 01 FOUNDERS
+Guaranteed employment at the 01 Founders Talent
+Agency, or with our partner companies, including:
+Employment (2+ years)
+Having completed the two year course, 01 Founders Learners will get a job in our partner
+organisations as junior to mid-level developers, or within our in-house Talent Agency, working on
+contract projects with a variety of organisations in need of software engineering support.
+We will be adding further partner companies for our learners to work with over the coming months.
+10
+Syllabus 01 FOUNDERS
+Life after the
+Fellowship
+Graduate as a full-stack software developer, capable
+of both front-end and back-end coding.
+Fully proficient
+in multiple coding
+languages, with
+the skills to
+learn additional
+languages quickly
+Coding competence
+comparable
+to qualified
+mid-level
+engineers
+Up to date with
+the tech industry’s
+ever-evolving
+methodologies
+Starting salary
+expected at
+minimum £40k
+based on London
+benchmarks
+11
+Life after the Fellowship 01 FOUNDERS
+What learners from other
+Dav
+31 years old
+It’s a completely collaborative environment,
+and everyone is progressing at the same
+pace.
+The gamified system helped to drive me
+forward, and understand how I was doing.
+Tsitsi
+25 years old
+01 was a very special experience for
+me - like nothing I had ever done before.
+It’s like a big educational game - very
+gratifying and rewarding!
+It made me better at working
+independently, as well as in a team.
+01-style schools say
+Learners from other 01-style schools
+work at:
+Learners from other other 01-style schools
+have founded:
+12
+Life after the Fellowship 01 FOUNDERS
+Tuition &
+Financing
+There are no tuition fees at
+01 Founders.
+We believe education should be accessible to
+everyone, irrespective of previous qualifications,
+experience or financial status.
+Whilst you pay 0 fees for 2 years education, we
+understand that some learners will not be able to afford
+living expenses during this time.
+As a result, we are providing a limited number of
+scholarships on a means-tested basis to learners. Please
+contact theteam@01founders.co for more information.
+Coding skills give you the
+ability to shape the world
+around you, but for too long,
+access to these opportunities
+has been unevenly distributed.
+We’re building 01 Founders to
+remove the barriers to jobready technical training.
+Joysy John, CEO
+13
+Tuition & Financing 01 FOUNDERS
+Connect with us
+https://www.01founders.co/
+
+Taking on an apprentice, if you're an employer:
+Overview
+Apprentices are aged 16 or over and combine working with studying to gain skills and knowledge in a specific job.
+
+This guidance is for employers in England.
+
+Apprentices can be new or current employees.
+
+You must pay the apprentice at least the minimum wage.
+
+Apprenticeships must last at least a year. They can last up to 5 years depending on the level the apprentice is studying.
+
+Your responsibilities
+You’re responsible for making sure your apprentice:
+
+works with experienced staff
+learns job-specific skills
+gets time off during their working week for apprenticeship training
+Hiring an apprentice
+
+There are several steps to taking on an apprentice.
+
+1. Choose an apprenticeship for your business or organisation.
+
+ 
+2. Find an organisation that offers training for the apprenticeship you’ve chosen.
+
+ 
+3. Check what training funding you can get.
+
+ 
+4. Create an account - you need this to manage funding and recruit apprentices.
+
+ 
+5. Advertise your apprenticeship - find out how to create an advert or give your training provider permission to do this for you.
+
+ 
+6. Make an apprenticeship agreement and training plan with your chosen apprentice.
+
+If you do not want to hire and train the apprentice yourself, you can use a flexi-job apprenticeship agency. The apprentice will be employed by the agency but will work in your organisation.
+
+Get funding for apprenticeship training
+You can get help from the government to pay for apprenticeship training.
+
+You might be able to get an additional payment of £1,000, depending on the apprentice you hire.
+
+What funding you can get
+You can get money to go towards the cost of training and assessment. The amount you get depends on whether you pay the apprenticeship levy or not.
+
+Find out if you need to pay the apprenticeship levy.
+
+If you do not pay the apprenticeship levy
+You pay 5% towards the cost of training and assessing your apprentice. You need to:
+
+agree a payment schedule with the training provider
+pay them directly for the training
+The government will pay the rest (95%) up to the funding band maximum. They’ll pay it directly to the training provider.
+
+If your apprentice started before 1 April 2019, you contribute 10% towards the cost of training and assessing your apprentice and the government pays the rest (90%). This rate continues until your apprentice completes their training.
+
+Use your apprenticeships service account to manage funding and provider payments.
+
+You could get extra funding depending on both your and your apprentice’s circumstances. Check the funding rules to see if you’re eligible.
+
+If you pay the apprenticeship levy
+You’ll get funds to spend on training and assessing your apprentices. The government will add 10%.
+
+Find out how to pay the apprenticeship levy.
+
+Use your apprenticeships service account to manage funding and provider payments.
+
+You cannot use funds from your apprenticeship service account to pay for a flexi-job apprenticeship agency’s services.
+
+Help to pay for other costs
+You can get £1,000 to support your apprentice in the workplace if they are one of the following:
+
+16 to 18 years old
+19 to 25 years old with an education, health and care plan
+19 to 25 years old and they used to be in care
+If your apprentice is eligible, your training provider will give you the payment in 2 instalments of £500. You will get the first payment after 90 days and the second one after a year.
+
+Eligibility
+Employers and training providers could get £1,000 each for taking on an apprentice who is either:
+
+aged 16 to 18 years old, or
+aged 19 to 25 years old and has an education, health and care (EHC) plan or has been in the care of their local authority
+What you can use the payment for
+You can spend it on any costs associated with supporting an apprentice in the workplace.
+
+For example, on uniforms, your apprentice’s travel or their salary.
+
+How to get the payment
+Employers do not need to take any action.
+
+We use confirmation from the training provider that an apprentice is eligible and calculate payments.
+
+Training providers must get consent from apprentices who have EHC plans or have been in the care of their local authority to share this information with the employer. Payment will not be calculated for employers if consent is not provided.
+
+When you’ll get paid
+The first payment of £500 should be paid to the employer by the training provider after 90 days of the apprenticeship training start date.
+
+The final payment of £500 should be paid to the employer by the training provider after 365 days of the apprenticeship training start date.
+
+Training providers have 30 working days to make payment to employers.
+
+Who needs to pay Apprenticeship Levy
+Apprenticeship Levy is an amount paid at a rate of 0.5% of an employer’s annual pay bill.
+
+As an employer, you have to pay Apprenticeship Levy each month if you:
+
+have an annual pay bill of more than £3 million
+are connected to any companies or charities for Employment Allowance purposes and have a combined annual pay bill of more than £3 million
+The rules for connected companies are the same for Apprenticeship Levy and Employment Allowance.
+
+You must report and pay Apprenticeship Levy monthly through your Employee Payment Summary.
+
+All sectors must pay the levy if they have an annual pay bill of over £3 million (including any connected companies or charities).
+
+The sectors that have specific rules for paying Apprenticeship Levy are:
+
+franchises
+off-payroll working
+short-lived companies
+managed service companies
+employment or recruitment agencies
+joint ventures
+schools
+Your annual pay bill
+Your annual pay bill is all payments to employees that are subject to employer Class 1 secondary National Insurance contributions such as wages, bonuses and commissions.
+
+Your pay bill must include payments to:
+
+all employees earning below the lower earnings limit and the secondary threshold
+employees under the age of 21
+apprentices under the age of 25
+Your pay bill must not include earnings:
+
+of employees under the age of 16
+of employees who are not subject to UK National Insurance contributions legislation
+on which Class 1A National Insurance contributions are payable, such as benefits in kind
+Industry training levy contributions
+You’ll still need to pay Apprenticeship Levy even if you already contribute to an industry-wide training levy arrangement (for example the Construction Industry Training Board Levy).
+
+Employers with modified PAYE schemes
+If you run a modified PAYE scheme you need to account for National Insurance contributions as usual. Use a best estimate of all earnings that are subject to Class 1 secondary National Insurance contributions to check if you need to pay the Apprenticeship Levy. You need to submit an Employment Payment Summary each month using these estimated figures.
+
+At the end of the tax year, you also need to:
+
+check your estimated pay bill against the actual figures for the tax year
+submit an extra Employment Payment Summary to correct any difference and pay any Apprenticeship Levy owed
+Using your Apprenticeship Levy allowance
+The allowance reduces the amount of Apprenticeship Levy you have to pay by £15,000 across the year.
+
+You cannot carry over any unused allowance into the next tax year.
+
+If you start or stop being an employer part way through the tax year you can use your full annual Apprenticeship Levy allowance against the amount of the levy that you owe.
+
+Employers not connected to another company or charity
+Employers not connected to another company or charity will have an Apprenticeship Levy allowance of £15,000 each year.
+
+If you are not connected to any other employer and your pay bill is not over £3 million you will not need to pay the levy.
+
+Employers connected to other companies or charities
+Connected companies or charities will only have one £15,000 allowance to share between them.
+
+If you are connected to any other employer and your combined pay bill is below £3 million, you will not need to pay the levy.
+
+How to divide your allowance
+Your Apprenticeship Levy allowance of £15,000 can be divided between:
+
+all your PAYE schemes
+your connected companies or charities
+You can decide how to split the allowance between your PAYE schemes or with your connected companies or charities. You must report how you’ve divided your allowance the first time you have to pay Apprenticeship Levy. You cannot change your share of the allowance during the tax year.
+
+You must continue to apply the levy allowance that was divided at the beginning of the tax year if, part way through the year:
+
+you become a connected employer (such as by merging with or acquiring another company)
+the structure of your group of connected companies or connected charities changes (such as by demerging with another company)
+You can decide how you divided your levy allowance across your connected companies or charities at the start of the next tax year.
+
+You cannot change where the allowance has been divided across connected companies or charities at the end of the tax year.
+
+Employers with multiple PAYE schemes who do not use their full Apprenticeship Levy allowance during the year, can change how this has been divided at the end of the tax year. This can be done to offset any unused allowance against another of your schemes.
+
+Public bodies (excluding charities) each get a full Apprenticeship Levy allowance as they are not considered to be connected companies. Public bodies which are charities must follow the rules for connected charities.
+
+NHS trusts and other health service bodies (such as Scottish Health Boards, Welsh Local Health Boards and Health and Social Care Trusts in Northern Ireland) are considered to be companies and have to follow the connected companies’ rules.
+
+Work out what you owe
+Apprenticeship Levy is charged at 0.5% of your annual pay bill. You can use HMRC’s Basic PAYE Tools to help you work out how much you need to pay.
+
+For the first month of the tax year:
+
+1. Divide your Apprenticeship Levy allowance by 12.
+2. Subtract this figure from 0.5% of your monthly pay bill.
+
+For each of the following months:
+
+1.Work out your total pay bill for the year to date.
+
+ 
+2.Add up your monthly levy allowances for the year to date.
+
+ 
+3.Subtract your levy allowance for the year to date from 0.5% of your total pay bill for the year to date.
+
+ 
+4.Subtract the amount of the levy you’ve paid in the year to date.
+
+If you start paying the levy part way through the tax year, you need to:
+
+Work out how much of your annual allowance has been accumulated in the current year.
+
+ 
+Divide your full annual allowance by 12.
+
+ 
+Multiply by the number of months since the start of the tax year.
+
+This figure is your allowance for the first month you report the levy. Any unused allowance can be carried forward into the next month within the same tax year.
+
+Reporting how much you owe
+You must report to HMRC how much Apprenticeship Levy you owe each month. You must report this at the start of the tax year if:
+
+your annual pay bill (including any connected companies or charities) in the previous tax year was more than £3 million
+you think your annual pay bill (including any connected companies or charities) for the tax year will be more than £3 million
+if your annual pay bill (including any connected companies or charities) unexpectedly increases to more than £3 million — start reporting when this happens
+If you’ve started paying Apprenticeship Levy, you must continue reporting it until the end of the tax year even if your annual pay bill turns out to be less than £3 million.
+
+Connected companies or charities will each need to tell HMRC how much Apprenticeship Levy they owe.
+
+Report your Apprenticeship Levy each month using your Employer Payment Summary and include the amount of the:
+
+annual Apprenticeship Levy allowance you’ve divided to that PAYE scheme
+Apprenticeship Levy you owe to date in the current tax year
+You do not need to report Apprenticeship Levy on your Employment Payment Summary if you have not had to pay it in the current tax year.
+
+Record keeping
+You must keep records of any information you have used to work out your levy payment for at least 3 years after the tax year which they relate to.
+
+Reporting changes to your pay bill
+Report any changes to the Apprenticeship Levy as a result of changes to your pay bill on your next Employment Payment Summary. If you find errors in your total annual pay bill at the end of the tax year, you must submit an extra Employment Payment Summary with the correct Apprenticeship Levy for the full tax year and pay what you owe.
+
+How to pay
+You pay Apprenticeship Levy every month as part of your PAYE bill. If you’ve overpaid Apprenticeship Levy during the year, you’ll receive a refund as a PAYE credit.
+
+Apprenticeship Levy payments are a deductible expense for Corporation Tax.
+
+Specific sectors that need to pay Apprenticeship Levy
+There are specific rules for certain sectors but all must pay the levy if they have an annual pay bill of over £3 million (including any connected companies or charities).
+
+Franchises
+Franchises have an annual allowance of £15,000 for all the franchises under your control. You can choose to share the allowance across the franchises you control or across your PAYE schemes.
+
+Off-payroll working
+You must include payments to intermediaries, such as a personal service company, a partnership or other individual, which are subject to the off-payroll working rules. This applies to payments for services provided through intermediaries to:
+
+public authorities (from April 2017)
+medium and large-sized clients outside the public sector (from April 2021)
+These payments are treated as employment income and subject to Class 1 National Insurance contributions.
+
+This does not apply to payments for services provided through intermediaries to private sector clients that are small or have no UK connection.
+
+Short-lived companies
+Short lived companies such as special purpose vehicles will have to pay the levy if they’re liable for Class 1 secondary National Insurance contributions. You’ll have a full £15,000 allowance if the special purpose vehicle has been set up part way through the tax year. You must to check whether you’re connected to another company or charity at the start of the following tax year.
+
+Managed service companies
+If you’re a managed service company and you’re connected to another employer, you may also have to pay the levy if your pay bill is less than £3 million.
+
+Employment or recruitment agencies
+You must pay the levy if you:
+
+supply labour (including subcontractors) to a client
+pay Class 1 secondary National Insurance contributions on the earnings of those workers
+Joint ventures
+If you’re in a joint venture partnership where 2 companies each have a 50% share in a further company, neither company will have overall control.
+
+As a result, the joint venture would not be connected to any other companies. The 2 companies and the joint venture would therefore each be entitled to their own levy allowance of £15,000.
+
+Other types of joint ventures will get a full £15,000 allowance if they’ve been set up part way through the tax year. They’ll need to check if they’re connected to another employer at the start of the next tax year to work out their allowance for the following year.
+
+Schools
+For voluntary-aided schools, foundation schools, free schools and academies, the governing body is the employer. Each governing body will be entitled to an allowance of £15,000.
+
+For other maintained schools, the local authority is the employer. The local authority remains legally responsible for payment of the Apprenticeship Levy for schools under their control, even if they’ve delegated responsibility for payroll including payment of Class 1 secondary National Insurance contributions. Each local authority has an annual allowance of £15,000.
+
+The employer for faith schools will be the local authority if the school is voluntary-controlled, otherwise it will be the governing body.
+
+Multi-academy trusts will get a single annual allowance of £15,000.
+
+If a school becomes a voluntary-aided school, foundation school, free school or academy part way through a tax year, the academy’s governing body will be responsible for the Apprenticeship Levy from this point and get a full allowance of £15,000.
+
+
