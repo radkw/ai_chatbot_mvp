@@ -2,7 +2,7 @@
 ## Overview
 This project is an advanced AI chatbot leveraging Groq's proprietary chips for ultra-fast inference. The chatbot communicates with the Groq platform via API calls, enabling high-speed processing for real-time responses. Designed to showcase both frontend and backend development, this project demonstrates structured code, clean architecture, and efficient API integration.
 
-The project is currently hosted live at https://www.biobrain.bio
+The project is currently hosted live at https://www.radeklabs.com/ai-chatbot
 
 ---
 
@@ -30,7 +30,8 @@ The project is currently hosted live at https://www.biobrain.bio
 
 ### Hosting:
 - Namecheap for domain hosting
-- Live at https://www.biobrain.bio
+- Live at https://www.radeklabs.com/ai-chatbot
+)
 
 ---
 
